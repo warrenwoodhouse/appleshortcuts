@@ -1,7 +1,7 @@
 # appleshortcuts
 Apple Shortcuts by Warren Woodhouse. For personal use only. For use with Apple iPhone 7 (and later models). More cool stuff at https://warrenwoodhouse.fandom.com/wiki/Themes
 
-Go to the section SHORTCUTS in this readme file to see the list of Apple Shortcuts.
+Jump to List of Apple Shortcuts: https://github.com/warrenwoodhouse/appleshortcuts/blob/main/README.md#shortcuts
 
 # LICENSE AGREEMENT
 You can find the license agreement at https://warrenwoodhouse.fandom.com/wiki/Terms#WL
